@@ -1,3 +1,6 @@
 [submodule "app"]
 	path = app
 	url = git@github.com:engnr/qbs-starter-app.git
+[submodule "library"]
+	path = library
+	url = git@github.com:engnr/qbs-starter-library.git
